@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+/**/
+
+footer{
+    display: none;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+/* IMaGe */
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(customers.jpg);
+    
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(hero.jpg);
+    
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(tribute-page-main-image.jpg);
+    
+}
+.carousel-inner{
+    align-items: center;
+    text-align: center;
+
+}
